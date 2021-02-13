@@ -7,3 +7,6 @@ Here is a growing collection of recorces and helpful commands to know whrn worki
 ## Git Commands
 - [git config](./Commands/Config.md)
 - [git init](./commands/init.md)
+- [git add](./Commands/add.md)
+- [git commit](./Commands/commit.md)
+- [git remote](./Commands/remote.md)
