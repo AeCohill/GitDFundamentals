@@ -12,3 +12,11 @@ Here is a growing collection of recorces and helpful commands to know when worki
 - [git remote](./Commands/remote.md)
 - [git push](./commands/push.md)
 - [git pull](./Commands/pull.md)
+- [git status](./Commands/status.md)
+- [git clone](./Commands/clone.md)
+
+## External Resources
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [gitignore Documentation](https://git-scm.com/docs/gitignore)
+- [git documentataion](https://git-scm.com/docs)
+- [git branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
